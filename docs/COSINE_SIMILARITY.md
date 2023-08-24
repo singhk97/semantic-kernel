@@ -6,7 +6,7 @@ language processing to compare [embeddings](EMBEDDINGS.md),
 which are numerical representations of
 words or other objects.
 
-The cosine similarity between two vectors is calculated by taking the
+The cosine similarity for two vectors is calculated by taking the
 [dot product](DOT_PRODUCT.md) of the two vectors and dividing it by the product
 of their magnitudes. This results in a value between -1 and 1, where 1 indicates
 that the two vectors are identical, 0 indicates that they are orthogonal
